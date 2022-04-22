@@ -41,7 +41,6 @@ Together with a dedicated [μlogger mobile client](https://github.com/bfabiszews
 - Follow instructions in setup script. It will add database tables and set up your μlogger user
 - **Remember to remove or disable `scripts/setup.php` script**
 - Log in with your new user on http://YOUR_HOST/ulogger-server/
-- You may also want to set your new user as an [admin in config file](https://github.com/bfabiszewski/ulogger-server/blob/v0.2/config.default.php#L67)
 - Folders `.docker/` and `.tests/` as well as composer files are needed only for development. May be safely removed
 
 ## Upgrade to version 1.x
